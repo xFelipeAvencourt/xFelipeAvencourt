@@ -1,4 +1,16 @@
+<div align="left"> 
+  <br/>
+  <h2>
+    Estudante de Ciência da Computação | UFRGS
+  </h2>
+  <br/>
+</div>
+
+<p style="text-align: justify;">
+Formado em técnico em Eletrônica pelo IFRS – Campus Canoas. Possuo uma base sólida em lógica de programação e busco aprimorar e aplicar esse conhecimento na resolução de problemas reais.</p>
+
 <p>Áreas de interesse:</p>
+
 <ul>
     <li>Otimização de algoritmos</li>
     <li>Redes de computadores e Cibersegurança</li>
@@ -7,8 +19,8 @@
 </ul>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-C++" height="50" widgt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>  
-  <img align="center" alt="Felipe-Python" height="50" widgt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
+  <img align="center" alt="Felipe-C++" height="50" widgt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/> 
+  <img align="center" alt="Felipe-Python" height="50" widgt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
   <img align="center" alt="Felipe-React" height="50" widgt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Felipe-Docker" height="50" widgt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Felipe-PostgressSQL" height="50" widgt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
