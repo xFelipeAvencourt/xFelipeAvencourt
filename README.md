@@ -7,7 +7,7 @@
 </div>
 
 <p style="text-align: justify;">
-Formado em técnico em Eletrônica pelo IFRS – Campus Canoas. Possuo uma base sólida em lógica de programação e busco aprimorar e aplicar esse conhecimento na resolução de problemas reais.</p>
+Sou técnico em Eletrônica formado pelo IFRS – Campus Canoas, com uma sólida base em lógica de programação. Busco constantemente aprimorar esse conhecimento e aplicá-lo na resolução de problemas reais.</p>
 
 <p>Áreas de interesse:</p>
 
