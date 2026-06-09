@@ -1,16 +1,4 @@
-<div align="left"> 
-  <br/>
-  <h2>
-    Estudante de Ciência da Computação | UFRGS
-  </h2>  
-  <br/>
-</div>
-
-<p style="text-align: justify;">
-Formado em técnico em Eletrônica pelo IFRS – Campus Canoas. Possuo uma base sólida em lógica de programação e busco aprimorar e aplicar esse conhecimento na resolução de problemas reais.</p>
-
 <p>Áreas de interesse:</p>
-
 <ul>
     <li>Otimização de algoritmos</li>
     <li>Redes de computadores e Cibersegurança</li>
