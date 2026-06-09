@@ -1,12 +1,13 @@
-<div align="center"> 
+<div align="left"> 
   <br/>
   <h2>
-    🎓 Estudante de Ciência da Computação | UFRGS
+    Estudante de Ciência da Computação | UFRGS
   </h2>  
   <br/>
 </div>
 
-<p>Com formação técnica em Eletrônica pelo IFRS – Campus Canoas. Possuo uma base sólida em lógica de programação e busco aprimorar e aplicar esse conhecimento na resolução de problemas reais.</p>
+<p style="text-align: justify;">
+Formado em técnico em Eletrônica pelo IFRS – Campus Canoas. Possuo uma base sólida em lógica de programação e busco aprimorar e aplicar esse conhecimento na resolução de problemas reais.</p>
 
 <p>Áreas de interesse:</p>
 
@@ -25,8 +26,6 @@
   <img align="center" alt="Felipe-PostgressSQL" height="50" widgt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img align="center" alt="Felipe-CSS" height="50" widgt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="Felipe-HMTL" height="50" widgt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-  <img align="right"  alt="🌌" height="250" widgt="190" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmwzNWQyNXV0Mzd1bjYzM3gxbzFmbmZ2eDE1dXJ5cjBleTY3emZqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BxAgRV0lC3QnufNviv/giphy.gif" />
 </div>
 
 ##
