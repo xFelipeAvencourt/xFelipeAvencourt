@@ -15,6 +15,7 @@
     <li>Redes de computadores e Cibersegurança</li>
     <li>Arquitetura e Engenharia de software</li>
     <li>Inteligência artificial</li>
+  <img align="right"  alt="🌌" height="280" widgt="195" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmwzNWQyNXV0Mzd1bjYzM3gxbzFmbmZ2eDE1dXJ5cjBleTY3emZqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BxAgRV0lC3QnufNviv/giphy.gif" />
 </ul>
 
 <div style="display: inline_block"><br>
@@ -25,8 +26,6 @@
   <img align="center" alt="Felipe-PostgressSQL" height="50" widgt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img align="center" alt="Felipe-CSS" height="50" widgt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="Felipe-HMTL" height="50" widgt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  
-  <img align="right"  alt="🌌" height="280" widgt="195" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmwzNWQyNXV0Mzd1bjYzM3gxbzFmbmZ2eDE1dXJ5cjBleTY3emZqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BxAgRV0lC3QnufNviv/giphy.gif" />
 </div>
 
 ##
